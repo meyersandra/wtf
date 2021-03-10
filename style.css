@@ -1,0 +1,37 @@
+body {
+  background: #e7e4e2;
+}
+section {
+  color: ffc2d4;
+}
+
+.main-heading {
+  color: #29a4d4;
+}
+
+h2 {
+  color: #2a9d8f;
+}
+
+h3 {
+  color: #8e1cec;
+}
+
+h4 {
+  color: #f08024;
+}
+.hotpink-header{
+  color:hotpink;
+}
+#top{
+  background: #dfeaf5;
+}
+a {
+  color:#e92d2d;
+}
+nav a {
+  color:rgba(79, 224, 35, 0.973);
+}
+.header {
+  background: rgb(114, 108, 190);
+}
